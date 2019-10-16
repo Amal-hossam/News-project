@@ -1,1 +1,1 @@
-# News-project-news-api-
+# News project (news api)
